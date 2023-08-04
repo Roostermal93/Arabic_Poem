@@ -1,0 +1,42 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "438e4220-dd5e-43fc-b8c2-28a71d3da5e3",
+            "collectionId": "Arabic",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Arabic/438e4220-dd5e-43fc-b8c2-28a71d3da5e3_ar_Male.mp4"
+        },
+        {
+            "id": "a1ffb8fe-ca1a-4cc8-8676-3a75e553f49d",
+            "collectionId": "Arabic",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Arabic/a1ffb8fe-ca1a-4cc8-8676-3a75e553f49d_ar_Female.mp4"
+        },
+        {
+            "id": "8caae4b5-8ec8-41cd-b48e-41fbfe12af6e",
+            "collectionId": "Arabic",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Arabic/8caae4b5-8ec8-41cd-b48e-41fbfe12af6e_ar_Male.mp4"
+        },
+        {
+            "id": "749017ec-ea19-417d-85c0-d3d90c20521c",
+            "collectionId": "Arabic",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Arabic/749017ec-ea19-417d-85c0-d3d90c20521c_ar_Male.mp4"
+        },
+        {
+            "id": "a6b10e39-b58b-400a-8988-874f5a929a63",
+            "collectionId": "Arabic",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Arabic/a6b10e39-b58b-400a-8988-874f5a929a63_ar_Male.mp4"
+        }
+    ]
+}
